@@ -1,5 +1,5 @@
 # Meteor Addon Template
-
+# YOU NEED METEOR CLIENT FOR THIS BTW https://meteorclient.com/
 A template to allow easy usage of the Meteor Addon API.
 
 ### How to use
