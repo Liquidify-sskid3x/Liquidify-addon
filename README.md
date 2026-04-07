@@ -13,7 +13,6 @@ Meteor Client addon containing combat modules, utilities, automation features, a
 - SpearMace
 
 ### Movement and Bypasses
-- AlwaysOnGround
 - NoGravity
 - Themis NoFall
 - Themis Fly
@@ -26,14 +25,12 @@ Meteor Client addon containing combat modules, utilities, automation features, a
 - PearlCatch Macro
 - PingSpoof
 - Yt-music
-
+- LongCommandExecutor (executes long command payloads)
 ### Automation
 - AutoOp (automatically grants operator on low security servers)
 
 ### Experimental
-- Andromenda
-- LongCommandExecutor (executes long command payloads)
-
+- AlwaysOnGround
 ## Installation
 
 1. Install Meteor Client.
