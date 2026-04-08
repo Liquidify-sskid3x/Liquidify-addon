@@ -39,4 +39,4 @@ Meteor Client addon containing combat modules, utilities, automation features, a
 
 ## Disclaimer
 
-Use at your own risk. I am not held accountable for ANY bans using my module, by using my addon you hereby agree to not make me hold accounable or sum shi idk
+Use at your own risk. I am not held accountable for ANY bans using my addon, by using my addon you hereby agree to not make me hold accounable or sum shi idk
